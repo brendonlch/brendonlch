@@ -6,8 +6,24 @@
 I'm Brendon. I'm a penultimate year undergraduate pursuing Bachelors of Science in Information Systems from Singapore Management University 🏛. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems ✨. I'm currently into Full Stack Development 🕸️ and working on Machine Learning 🤓.
 </p>
 
+<!-- Projects --> 
+<h2 align="left">Projects:</h2>
+<h3 align="left">Software Dev Related Projects</h3>
+
+- EduTrade - Educational Trading Platform 
+
+- AntBuildz Bidding Platform (IN PROGRESS)
+
+<h3 align="left">Machine Learning Related Projects</h3>
+
+- AutoArtist - Photo Restoration using Denoising AutoEncoder Architecture
+
+- Emotion Detector
+  
+
+
 <!-- Connect with me -->
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 
 <a href="https://linkedin.com/in/brendonlch" target="blank"><img align="center" src="https://github.com/brendonlch/brendonlch/blob/main/assets/linkedin.svg" alt="brendonlch" height="30" width="30" /></a>
