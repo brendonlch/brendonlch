@@ -4,6 +4,12 @@
 
 <h3>Glad to see you here!</h3>
 
+<!-- Connect with me -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://linkedin.com/in/brendonlch" target="blank"><img align="center" src="https://github.com/brendonlch/brendonlch/blob/main/assets/linkedin.svg" alt="brendonlch" height="30" width="30" /></a>
+<a href="https://instagram.com/brendonlch" target="blank"><img align="center" src="https://github.com/brendonlch/brendonlch/blob/main/assets/instagram.svg" alt="brendonlch" height="30" width="30" /></a>
 <!--
 **brendonlch/brendonlch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
