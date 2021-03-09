@@ -7,7 +7,7 @@ I'm Brendon. I'm a penultimate year undergraduate pursuing Bachelors of Science 
 </p>
 
 <!-- Projects --> 
-<h2 align="left">Projects:</h2>
+<h2 align="left">Projects</h2>
 <h3 align="left">Software Dev Related Projects 💻</h3>
 
 - <a href="https://github.com/brendonlch/EduTrade">EduTrade</a> - Educational Trading Platform 
