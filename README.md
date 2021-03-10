@@ -14,6 +14,8 @@ I'm Brendon. I'm a penultimate year undergraduate pursuing Bachelors of Science 
 
 - AntBuildz Bidding Platform (IN PROGRESS)
 
+- Lenny - Voice Activated Visual Assistance Mobile App (IN PROGRESS)
+
 <h3 align="left">Machine Learning Related Projects 🤖</h3>
 
 - AutoArtist - Photo Restoration using Denoising AutoEncoder Architecture
