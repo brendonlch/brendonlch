@@ -4,25 +4,7 @@
 <!-- About me -->
 <p>
 I'm Brendon. I'm a penultimate year undergraduate pursuing Bachelors of Science (Information Systems) from Singapore Management University 🏛. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems ✨. I'm currently into Full Stack Development 🕸️ and working on Machine Learning 🤓.
-</p>
-
-<!-- Projects --> 
-<h2 align="left">Projects</h2>
-<h3 align="left">Software Dev Related Projects 💻</h3>
-
-- <a href="https://github.com/brendonlch/EduTrade">EduTrade</a> - Educational Trading Platform 
-
-- AntBuildz Bidding Platform (IN PROGRESS)
-
-- Lenny - Voice Activated Visual Assistance Mobile App (IN PROGRESS)
-
-<h3 align="left">Machine Learning Related Projects 🤖</h3>
-
-- AutoArtist - Photo Restoration using Denoising AutoEncoder Architecture
-
-- <a href="https://github.com/brendonlch/EmotionDetection">Emotion Detector</a>
-  
-
+</p>  
 
 <!-- Connect with me -->
 <h2 align="left">Connect with me:</h2>
